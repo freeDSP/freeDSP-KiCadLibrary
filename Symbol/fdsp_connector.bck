@@ -41,9 +41,19 @@ D Stereo RCA connector for audio applications.
 K RCA stereo
 $ENDCMP
 #
+$CMP STDCONN
+D FreeDSP Standard Extension Header
+K FreeDSP Standard Connector Header Extension
+$ENDCMP
+#
 $CMP TEST
 D point
 K point tp
+$ENDCMP
+#
+$CMP TORX147
+D Toslink receiver socket.
+K Toslink Receiver
 $ENDCMP
 #
 $CMP USB_A
