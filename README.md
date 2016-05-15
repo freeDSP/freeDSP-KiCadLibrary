@@ -4,3 +4,6 @@ KiCad libraries to be used for new designs. All symbols and footprints are check
 If you need to use a new symbol or footprint push it as a commit to the fdsp_new.lib for symbols or fdsp_new.mod for footprints. New commits will be checked for correctness and merged to the libraries as fast as possible.
 
 For more information contact [fabiangeissler](https://github.com/fabiangeissler).
+
+# Please Note:
+This library will grow with time. Footprints and 3D models will be added as soon as possible.
