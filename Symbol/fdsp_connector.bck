@@ -56,6 +56,11 @@ D Toslink receiver socket.
 K Toslink Receiver
 $ENDCMP
 #
+$CMP TOTX147
+D Toslink transmitter socket.
+K Toslink Transmitter
+$ENDCMP
+#
 $CMP USB_A
 D A connector
 K USB USB_A

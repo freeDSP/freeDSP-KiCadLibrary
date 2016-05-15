@@ -78,11 +78,6 @@ $CMP R_Small
 D Resistor
 $ENDCMP
 #
-$CMP SW_PUSH
-D Button
-K Switch
-$ENDCMP
-#
 $CMP ZENER
 D Diode zener
 K DEV DIODE
