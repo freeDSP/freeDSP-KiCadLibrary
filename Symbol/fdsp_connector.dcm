@@ -46,6 +46,11 @@ D Stereo RCA connector for audio applications.
 K RCA stereo
 $ENDCMP
 #
+$CMP RCA_02x02
+D Cinch Connector 02x02; TOP: Left(White); BOT: Right(Red)
+K Cinch
+$ENDCMP
+#
 $CMP STDCONN
 D FreeDSP Standard Extension Header
 K FreeDSP Standard Connector Header Extension
