@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP AUDIO_JACK_STEREO_12PIN_FCR1117
+D audio jack TRS 6 pins
+K audio jack connector TRS
+$ENDCMP
+#
 $CMP AUDIO_JACK_STEREO_3PIN
 D Stereo audio jack 3-pin.
 K audio jack
