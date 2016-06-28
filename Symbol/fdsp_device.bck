@@ -47,8 +47,18 @@ $CMP D_Small
 D Diode
 $ENDCMP
 #
+$CMP FILTER
+D Filtre EMI
+K EMI
+$ENDCMP
+#
 $CMP FUSE_Small
 D Fuse
+$ENDCMP
+#
+$CMP Jumper_NO_Small
+D Jumper normally open
+K Jumper, Link
 $ENDCMP
 #
 $CMP LED
@@ -67,6 +77,11 @@ $ENDCMP
 $CMP POT_DUAL
 D Potentionmeter
 K R
+$ENDCMP
+#
+$CMP Q_PNP_BCE
+D Transistor PNP (general)
+K pnp transistor
 $ENDCMP
 #
 $CMP R

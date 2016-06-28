@@ -1,1 +1,6 @@
-/.project
+# Unused / old / backup KiCad file endings
+*.bak
+*.kicad_pcb-bak
+*.bck
+*.000
+*.net
