@@ -4,3 +4,5 @@
 *.bck
 *.000
 *.net
+# Symbol library cache
+*cache.lib

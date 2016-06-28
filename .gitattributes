@@ -1,1 +1,3 @@
-*.kicad_mod eol=lf
+*.kicad_pcb eol=lf
+*.sch eol=lf
+*.pro eol=lf
