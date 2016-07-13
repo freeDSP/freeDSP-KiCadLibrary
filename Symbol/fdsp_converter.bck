@@ -1,8 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP AK5384
-D 4ch. ADC; Cascade TDM/I2S
-K ADC
-$ENDCMP
-#
-#End Doc Library
