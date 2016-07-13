@@ -36,6 +36,16 @@ $CMP DB9
 K CONN
 $ENDCMP
 #
+$CMP FC684206R
+D SPDIF Dual Receiverr Toslink + RCA/Cinch
+K SPDIF
+$ENDCMP
+#
+$CMP FC684206T
+D SPDIF Dual Transmitter Toslink + RCA/Cinch
+K SPDIF
+$ENDCMP
+#
 $CMP RCA_01
 D Mono RCA connector for audio applications.
 K RCA mono
