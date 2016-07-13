@@ -49,4 +49,8 @@ $CMP VDD
 K POWER, PWR
 $ENDCMP
 #
+$CMP VIN
+K POWER, PWR
+$ENDCMP
+#
 #End Doc Library
