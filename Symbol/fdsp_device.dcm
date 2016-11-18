@@ -26,6 +26,10 @@ D Two pin crystal
 K Quartz, Ceramic, Filter, Resonator
 $ENDCMP
 #
+$CMP Crystal_Oszillator
+D Four pin crytal oszillator
+$ENDCMP
+#
 $CMP Crystal_Small
 D Two pin crystal
 K Quartz, Resonator, Ceramic, Filter
