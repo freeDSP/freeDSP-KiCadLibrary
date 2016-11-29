@@ -102,6 +102,11 @@ $CMP R_Small
 D Resistor
 $ENDCMP
 #
+$CMP TVS
+D Transient voltage suppressor diode (bi-directional)
+K DEV TVS TRANSIENT SUPPROESSOR ESD
+$ENDCMP
+#
 $CMP ZENER
 D Diode zener
 K DEV DIODE
