@@ -39,4 +39,12 @@ K serial EEPROM SPI interface memory external
 F http://www.onsemi.com/PowerSolutions/product.do?id=CAT25040
 $ENDCMP
 #
+$CMP CB3LV-3C-24M5760
+D Oscillator 24.5760MHz
+$ENDCMP
+#
+$CMP CDCLVC1108
+D Multi MCLK Distribution IC
+$ENDCMP
+#
 #End Doc Library
