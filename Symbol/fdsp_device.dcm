@@ -107,6 +107,11 @@ D Transient voltage suppressor diode (bi-directional)
 K DEV TVS TRANSIENT SUPPROESSOR ESD
 $ENDCMP
 #
+$CMP Transformer_2P_2S_ALT4532
+D Transformer, split primary, split secondary
+K transformer coil magnet
+$ENDCMP
+#
 $CMP ZENER
 D Diode zener
 K DEV DIODE
