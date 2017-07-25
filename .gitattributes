@@ -1,3 +1,12 @@
+# Enforce LF line endings for all files for compatibility reasons
+# Kicad project files
 *.kicad_pcb eol=lf
 *.sch eol=lf
 *.pro eol=lf
+
+# Symbol libraries
+*.dcm eol=lf
+*.lib eol=lf
+
+# Footprint libraries
+*kicad_mod eol=lf
