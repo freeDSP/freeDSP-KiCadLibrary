@@ -22,6 +22,10 @@ $CMP OPA2353
 D Dual Op amp (Audio)
 $ENDCMP
 #
+$CMP OPA4353
+D Quad Op amp (Audio)
+$ENDCMP
+#
 $CMP TL072
 D Dual Op amp (low power)
 K ampliop
