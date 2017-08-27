@@ -6,10 +6,25 @@ K ampliop
 F ns/lm158.pdf
 $ENDCMP
 #
+$CMP LMC6082
+D Dual Op amp (low power)
+K ampliop
+F op_amps/lmc6082.pdf
+$ENDCMP
+#
 $CMP NE5532
 D Dual Op amp (low power)
 K ampliop
 F ns/lm158.pdf
+$ENDCMP
+#
+$CMP OPA2353
+D Dual Op amp (Audio)
+$ENDCMP
+#
+$CMP TL072
+D Dual Op amp (low power)
+K ampliop
 $ENDCMP
 #
 #End Doc Library
