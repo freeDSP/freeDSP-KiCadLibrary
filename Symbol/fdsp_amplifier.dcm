@@ -22,6 +22,10 @@ $CMP OPA2353
 D Dual Op amp (Audio)
 $ENDCMP
 #
+$CMP OPA337
+D TI OPA337 Op amp.
+$ENDCMP
+#
 $CMP OPA4353
 D Quad Op amp (Audio)
 $ENDCMP
