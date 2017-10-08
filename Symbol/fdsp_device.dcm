@@ -73,6 +73,26 @@ $CMP LED_Small
 D Led
 $ENDCMP
 #
+$CMP LM4040DYM3-1.2
+D LM4040 Precision Micropower Shunt Voltage Reference
+K REF VOLTAGE
+$ENDCMP
+#
+$CMP LM4040DYM3-2.5
+D LM4040 Precision Micropower Shunt Voltage Reference
+K REF VOLTAGE
+$ENDCMP
+#
+$CMP LM4040DYM3-4.1
+D LM4040 Precision Micropower Shunt Voltage Reference
+K REF VOLTAGE
+$ENDCMP
+#
+$CMP LM4040DYM3-5.0
+D LM4040 Precision Micropower Shunt Voltage Reference
+K REF VOLTAGE
+$ENDCMP
+#
 $CMP POT
 D Potentionmeter
 K R
@@ -105,6 +125,11 @@ $ENDCMP
 $CMP TVS
 D Transient voltage suppressor diode (bi-directional)
 K DEV TVS TRANSIENT SUPPROESSOR ESD
+$ENDCMP
+#
+$CMP Transformer_1P_1S_DA101C
+D Transformer, single primary, single secondary
+K transformer coil magnet
 $ENDCMP
 #
 $CMP Transformer_1P_1S_DA101MC
