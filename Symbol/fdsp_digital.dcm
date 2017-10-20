@@ -59,4 +59,8 @@ $CMP CDCLVC1108
 D Multi MCLK Distribution IC
 $ENDCMP
 #
+$CMP IDT2308-1
+D Multi MCLK Distribution IC
+$ENDCMP
+#
 #End Doc Library
