@@ -60,6 +60,11 @@ $CMP FUSE_Small
 D Fuse
 $ENDCMP
 #
+$CMP Jumper_NC_Small
+D Jumper, normally closed
+K jumper link bridge
+$ENDCMP
+#
 $CMP Jumper_NO_Small
 D Jumper normally open
 K Jumper, Link
